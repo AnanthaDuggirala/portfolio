@@ -1,8 +1,8 @@
 # Data Scientist 
 
 ###Education
-MSc. Computer Science, Artificial Intelligence
- University of Western Ontario, London, Ontario
+- MSc. Computer Science, Artificial Intelligence
+  University of Western Ontario, London, Ontario
 
 ###Work Experience
 Data Scientist @ Aviva Insurance
