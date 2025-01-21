@@ -1,10 +1,12 @@
 # Data Scientist 
 
-###Education
+### Education
+
 - MSc. Computer Science, Artificial Intelligence
   University of Western Ontario, London, Ontario
 
-###Work Experience
+### Work Experience
+
 Data Scientist @ Aviva Insurance
 
 - Built a driver behavior detection model to identify mismatched driver activity using telematics data.
