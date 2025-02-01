@@ -29,4 +29,11 @@
 - Managed an 8-person team, mentoring them in technical skills and delivering a high-impact project.
 - Coordinated with clients to ensure project timelines and deliverables were met.
 
-### Projects
+### Certifications
+#### From Deeplearning.ai
+    • NLP with Classification and Vector Spaces Jul, 2024
+    • Machine Learning in Production May, 2024
+
+#### Github: https://github.com/AnanthaDuggirala
+#### Linkedin:  https://www.linkedin.com/in/ananthaduggirala/
+
