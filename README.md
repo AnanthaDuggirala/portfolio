@@ -5,6 +5,19 @@
 - MSc. Computer Science, Artificial Intelligence
   University of Western Ontario, London, Ontario
 
+### Technical Expertise
+- Pyspark, Python
+- Machine learning, Pandas, Numpy, Sklearn, Pytorch, Tensorflow, ML Pipelines
+- Data Analysis, Enrichment, ETL
+- Statical Ananlysis
+- A/B testing
+- SQL, NOSQL, PostgreSQL, Hadoop
+- NLP
+- MLOPS
+- CI/CD Pipelines
+- AWS, Snowflakes
+- Tablue, PowerBI, Qlik
+
 ### Work Experience
 
 #### Data Scientist @ Aviva Insurance
